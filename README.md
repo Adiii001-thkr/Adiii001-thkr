@@ -68,6 +68,12 @@ Automated waste tracking using **NodeMCU, Ultrasonic Sensors, RFID, Firebase**.
     <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white">
   </a>
 </p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Adiii001-thkr/Adiii001-thkr/main/IMG_2941.jpg" 
+       width="220" 
+       style="border-radius:50%; box-shadow: 0px 10px 25px rgba(0,0,0,0.5);" 
+       alt="Aditya Thakur">
+</p>
 
 ---
 
